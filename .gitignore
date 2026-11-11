@@ -1,0 +1,8 @@
+# dados pessoais nunca entram no repositório
+*.fit
+*.zip
+*.csv
+*.json
+dados/
+__pycache__/
+.venv/
